@@ -3,3 +3,5 @@ we are going to add it to our new commit.
 
 This is the difference between this file
 and the previous file.
+
+Amended file
